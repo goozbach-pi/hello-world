@@ -13,3 +13,4 @@ while True:
     input_state = GPIO.input(mypin)
     if input_state == False:
         print('Button Pressed')
+        time.sleep(0.05)

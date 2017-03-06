@@ -9,7 +9,7 @@ print sys.argv
 
 pinNum = int(sys.argv[1])
 
-iters = 10
+iters = 5
 
 print pinNum
 
